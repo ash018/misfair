@@ -1,0 +1,1 @@
+darknet.exe detector test data/obj.data yolo-obj.cfg yolo-obj_14500.weights -i 0 -thresh 0.25 1.jpg -ext_output
